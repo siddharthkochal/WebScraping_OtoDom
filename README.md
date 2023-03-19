@@ -1,5 +1,6 @@
 # WebScraping_OtoDom
 Project Python applications
+
 Webscraping:
 
 Create a program that can extract information from housing aggregator websites like gratka.pl or otodom.pl. The program should be able to extract all the relevant data from a search query, such as location, minimum and maximum price, minimum and maximum area, and other important features. It should also include options for private or public ads. The extracted data should include the link to the record, price, number of rooms, area, description, other features, and position on a map. You can extract the position using Google Maps iframes.
